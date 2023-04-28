@@ -1,0 +1,15 @@
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/bin/Debug/net7.0/PerformanceTest
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/bin/Debug/net7.0/PerformanceTest.deps.json
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/bin/Debug/net7.0/PerformanceTest.runtimeconfig.json
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/bin/Debug/net7.0/PerformanceTest.dll
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/bin/Debug/net7.0/PerformanceTest.pdb
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.csproj.AssemblyReference.cache
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.AssemblyInfoInputs.cache
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.AssemblyInfo.cs
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.csproj.CoreCompileInputs.cache
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.dll
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/refint/PerformanceTest.dll
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.pdb
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/PerformanceTest.genruntimeconfig.cache
+/Users/bilgecan/Projects/PerformanceTest/PerformanceTest/obj/Debug/net7.0/ref/PerformanceTest.dll
